@@ -1,5 +1,7 @@
 # Detecting ad hominem attacks
 
+_Published paper "Computational ad hominem detection" at ACL2019 (SRW): https://www.aclweb.org/anthology/P19-2028/_
+
 _This project was for the 2018-2019 course 'Knowledge and the Web' at KU Leuven._
 
 The term "fake news" is associated with journalism that deliberately spreads deceitful or inaccurate information. In the past years, the use of the term has increased drastically, interfering in major areas within a community. The importance is such that Italian schools have implemented "fake news detection" as part of the school curriculum. In the political sphere, it is not uncommon to see allegations of fake news and misinformation. Those calls that often target sources, reporters and organizations, instead of assessing the arguments themselves. This paper will discuss the possibility to **detect fallacies**, primarily on the _ad hominem_. _Ad hominem_ literally means "to the person", and the term is used when an argument directs to the person instead of assessing the argument itself.
