@@ -22,6 +22,10 @@ The network had the following confusion matrix as output, when it was trained on
 
 ![Confusion matrix](conf_matrix.png)
 
+Web demo available in https://fallacies.ipieter.be:
+
+![Web demo](web_demo.png)
+
 # Getting started with the project
 
 ## Running the backend server
